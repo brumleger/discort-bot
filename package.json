@@ -1,0 +1,25 @@
+{
+  "name": "Discord Bot",
+  "version": "1.0.0",
+  "description": "De officiële template van de discord bot van brumleger",
+  "main": "server.js",
+  "dependencies": {
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.3.1",
+    "discord.js-pagination": "^1.0.2",
+    "figlet": "^1.5.0",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4",
+    "novelcovid": "^3.0.0",
+    "quick.db": "^7.1.2",
+    "ytdl-core": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brumleger",
+  "license": "ISC"
+}
